@@ -8,6 +8,8 @@ In order to use this application, simply enter the title of your note, the detai
 
 ## Images
 This image shows how the application should function!
+![Screenshot (7)](https://user-images.githubusercontent.com/104457102/184210161-4769083a-405e-4ae2-bcc6-998bd5be9ba6.png)
+
 
 ## Github repo
 You can find the github repository here!
